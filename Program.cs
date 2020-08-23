@@ -8,37 +8,37 @@ namespace FirstConsoleApp
         {
 
             //Some variables
-            float kilo=70.5f;    
-            string plaka="34PR1177";
-            double km=125425.8;
-            int musteriId=1;
-            bool satistami=true;
-            float maas=2135.80f;
-            string adsoyad="Bünyamin Gültekin";
-            char sube='a';
+
+            // float kilo=70.5f;    
+            // string plaka="34PR1177";
+            // double km=125425.8;
+            // int musteriId=1;
+            // bool satistami=true;
+            // float maas=2135.80f;
+            // string adsoyad="Bünyamin Gültekin";
+            // char sube='a';
             
-            Console.WriteLine(plaka,km,musteriId,satistami,maas,adsoyad,sube);
 
             //App-Type transformation
 
-            int shortSide;
-            int longSide;
+            // int shortSide;
+            // int longSide;
 
-            Console.WriteLine("Please enter the 1. length");
-            int len1=int.Parse(Console.ReadLine());
-            int len2=int.Parse(Console.ReadLine());
+            // Console.WriteLine("Please enter the 1. length");
+            // int len1=int.Parse(Console.ReadLine());
+            // int len2=int.Parse(Console.ReadLine());
 
-            if(len1>len2){
-                shortSide=len2;
-                longSide=len1;
-            }
-            else{
-                shortSide=len1;
-                longSide=len2;
-            }
+            // if(len1>len2){
+            //     shortSide=len2;
+            //     longSide=len1;
+            // }
+            // else{
+            //     shortSide=len1;
+            //     longSide=len2;
+            // }
 
-            var area=longSide*shortSide;
-            Console.WriteLine($"The area is :{area}");
+            // var area=longSide*shortSide;
+            // Console.WriteLine($"The area is :{area}");
 
         }
     }
