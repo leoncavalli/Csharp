@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.exe
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.deps.json
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.json
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.dev.json
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.dll
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.dll
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\1-C#\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.pdb
