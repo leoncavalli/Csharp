@@ -57,21 +57,40 @@ namespace FirstConsoleApp
 
             //Arrays
 
-            string message="My name is Jose Ernesto Sosa.";
-            var msgarray=message.Split();
-            Console.WriteLine(msgarray[0]);
+            // string message="My name is Jose Ernesto Sosa.";
+            // var msgarray=message.Split();
+            // Console.WriteLine(msgarray[0]);
+
+            // string[] players={"Sosa","Thiam","Hakan","Caner"};
+            // Console.WriteLine(players[1]);
+
+            // int[] array=new int[4];
+            // array[0]=5;
+            // array[1]=5;
+            // array[2]=5;
+            // array[3]=5;
+            // Console.WriteLine(array.Length);
+
+
+
+            //Array Methods
 
             string[] players={"Sosa","Thiam","Hakan","Caner"};
-            Console.WriteLine(players[1]);
+            var index=Array.IndexOf(players,"Caner");
+            players.SetValue("Gökhan",index);
+            Console.WriteLine(players[3]);
+            Array.Sort(players);
+            Console.WriteLine(players.GetValue(2));
 
-            int[] array=new int[4];
-            array[0]=5;
-            array[1]=5;
-            array[2]=5;
-            array[3]=5;
-            Console.WriteLine(array.Length);
-
-
+            Array.Clear(players,1,1);
+            Console.WriteLine(players.GetValue(0));            
+            
+            foreach (var player in players)
+            {
+                Console.WriteLine(player);
+            }
+            string msg="Hello World!";
+            Console.WriteLine(msg[0..3]);
         }
     }
 }
