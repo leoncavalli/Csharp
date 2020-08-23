@@ -40,6 +40,17 @@ namespace FirstConsoleApp
             // var area=longSide*shortSide;
             // Console.WriteLine($"The area is :{area}");
 
+
+            //String Methods
+
+            string msg="Hi i am Bunyamin.";
+            Console.WriteLine(msg.ToUpper());
+            Console.WriteLine(msg.Length);
+            Console.WriteLine(msg.Substring(5,7));
+            Console.WriteLine(msg.EndsWith("in."));
+            Console.WriteLine(msg.Trim());
+            Console.WriteLine(msg.Contains("am"));
+
         }
     }
 }
