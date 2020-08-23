@@ -41,15 +41,36 @@ namespace FirstConsoleApp
             // Console.WriteLine($"The area is :{area}");
 
 
+
+
             //String Methods
 
-            string msg="Hi i am Bunyamin.";
-            Console.WriteLine(msg.ToUpper());
-            Console.WriteLine(msg.Length);
-            Console.WriteLine(msg.Substring(5,7));
-            Console.WriteLine(msg.EndsWith("in."));
-            Console.WriteLine(msg.Trim());
-            Console.WriteLine(msg.Contains("am"));
+            // string msg="Hi i am Bunyamin.";
+            // Console.WriteLine(msg.ToUpper());
+            // Console.WriteLine(msg.Length);
+            // Console.WriteLine(msg.Substring(5,7));
+            // Console.WriteLine(msg.EndsWith("in."));
+            // Console.WriteLine(msg.Trim());
+            // Console.WriteLine(msg.Contains("am"));
+            
+
+
+            //Arrays
+
+            string message="My name is Jose Ernesto Sosa.";
+            var msgarray=message.Split();
+            Console.WriteLine(msgarray[0]);
+
+            string[] players={"Sosa","Thiam","Hakan","Caner"};
+            Console.WriteLine(players[1]);
+
+            int[] array=new int[4];
+            array[0]=5;
+            array[1]=5;
+            array[2]=5;
+            array[3]=5;
+            Console.WriteLine(array.Length);
+
 
         }
     }
