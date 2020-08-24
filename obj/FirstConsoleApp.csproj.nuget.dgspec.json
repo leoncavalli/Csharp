@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\1-C#\\FirstConsoleApp\\FirstConsoleApp.csproj": {}
+    "c:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\1-C#\\FirstConsoleApp\\FirstConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\1-C#\\FirstConsoleApp\\FirstConsoleApp.csproj": {
+    "c:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\1-C#\\FirstConsoleApp\\FirstConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\1-C#\\FirstConsoleApp\\FirstConsoleApp.csproj",
+        "projectUniqueName": "c:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\1-C#\\FirstConsoleApp\\FirstConsoleApp.csproj",
         "projectName": "FirstConsoleApp",
-        "projectPath": "C:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\1-C#\\FirstConsoleApp\\FirstConsoleApp.csproj",
+        "projectPath": "c:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\1-C#\\FirstConsoleApp\\FirstConsoleApp.csproj",
         "packagesPath": "C:\\Users\\bunya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\1-C#\\FirstConsoleApp\\obj\\",
+        "outputPath": "c:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\1-C#\\FirstConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bunya\\AppData\\Roaming\\NuGet\\NuGet.Config",

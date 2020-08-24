@@ -18,6 +18,7 @@ namespace FirstConsoleApp
             // string adsoyad="Bünyamin Gültekin";
             // char sube='a';
             
+            // **********************************
 
             //App-Type transformation
 
@@ -40,8 +41,7 @@ namespace FirstConsoleApp
             // var area=longSide*shortSide;
             // Console.WriteLine($"The area is :{area}");
 
-
-
+            // **********************************
 
             //String Methods
 
@@ -53,7 +53,7 @@ namespace FirstConsoleApp
             // Console.WriteLine(msg.Trim());
             // Console.WriteLine(msg.Contains("am"));
             
-
+            // **********************************
 
             //Arrays
 
@@ -71,26 +71,56 @@ namespace FirstConsoleApp
             // array[3]=5;
             // Console.WriteLine(array.Length);
 
-
+            // **********************************
 
             //Array Methods
 
-            string[] players={"Sosa","Thiam","Hakan","Caner"};
-            var index=Array.IndexOf(players,"Caner");
-            players.SetValue("Gökhan",index);
-            Console.WriteLine(players[3]);
-            Array.Sort(players);
-            Console.WriteLine(players.GetValue(2));
+            // string[] players={"Sosa","Thiam","Hakan","Caner"};
+            // var index=Array.IndexOf(players,"Caner");
+            // players.SetValue("Gökhan",index);
+            // Console.WriteLine(players[3]);
+            // Array.Sort(players);
+            // Console.WriteLine(players.GetValue(2));
 
-            Array.Clear(players,1,1);
-            Console.WriteLine(players.GetValue(0));            
+            // Array.Clear(players,1,1);
+            // Console.WriteLine(players.GetValue(0));            
             
-            foreach (var player in players)
-            {
-                Console.WriteLine(player);
-            }
-            string msg="Hello World!";
-            Console.WriteLine(msg[0..3]);
+            // foreach (var player in players)
+            // {
+            //     Console.WriteLine(player);
+            // }
+            // string msg="Hello World!";
+            // Console.WriteLine(msg[0..3]);
+
+            // **********************************
+
+            // Working with datetime
+
+            // DateTime now=DateTime.Now;
+            // Console.WriteLine(now);
+            // Console.WriteLine(now.Year);
+            // Console.WriteLine(now.Day);
+            // Console.WriteLine(now.DayOfWeek);
+            // Console.WriteLine(now.Month);
+            // Console.WriteLine(now.TimeOfDay);
+            // DateTime date=new DateTime(2020,9,4);
+            // DateTime date2=date.AddDays(3);
+
+            // Console.WriteLine(date);
+            // Console.WriteLine(date2);
+
+            // Console.WriteLine(now);
+            // Console.WriteLine(now.ToString("d"));
+            // Console.WriteLine(now.ToString("D"));
+            // Console.WriteLine(now.ToString("F"));
+            // Console.WriteLine(now.ToString("M"));
+            // Console.WriteLine(now.ToString("t"));
+            // Console.WriteLine(now.ToString("T"));
+            // Console.WriteLine(now.ToString("Y"));   
+            // Console.WriteLine(now.ToString("dd/MM/yyyy"));
+
+
+
         }
     }
 }
